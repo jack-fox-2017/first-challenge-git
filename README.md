@@ -12,7 +12,7 @@
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
 
-    Mendapatkan ilmu baru yang diajarkan di hacktiv8, Mendapatkan pekerjaan dibidang web developer
+    Mendapatkan ilmu baru yang diajarkan di hacktiv8, Mendapatkan pekerjaan dibidang web developer, Mendapatkan pengalaman baru. pokoknya serba baru aja lah.
 
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
