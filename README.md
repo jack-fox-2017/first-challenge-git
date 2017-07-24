@@ -5,7 +5,7 @@ Latar belakang saya adalah IT, lulusan Univ Amikom Yogyakart. Tetapi sangat berb
 
 [//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
 ## Motivasi
-Inflasi pertahun ini selalu meningkat, dan teknologi di bidang website juga semakin berkembang. jika kita tidak mengikuti perkembangan yang ada kita akan semakin jauh tertinggal, sumberdaya kita tidak akan terpakai. jika kita dibekali ilmu sebelumnya dengan teknologi terbaru saat ini kita akan semakin mudah emmpelajari yang lainnya. dikarenakan kesempatan untuk belajar di kantor lama hampir tidak ada.
+Gaji yang besar. Inflasi pertahun ini selalu meningkat, dan teknologi di bidang website juga semakin berkembang. jika kita tidak mengikuti perkembangan yang ada kita akan semakin jauh tertinggal, sumberdaya kita tidak akan terpakai. jika kita dibekali ilmu sebelumnya dengan teknologi terbaru saat ini kita akan semakin mudah mempelajari yang lainnya. dikarenakan kesempatan untuk belajar di kantor lama hampir tidak ada. 
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
